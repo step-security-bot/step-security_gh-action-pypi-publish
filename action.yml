@@ -1,5 +1,6 @@
 ---
 name: pypi-publish
+author: step-security
 description: Upload Python distribution packages to PyPI
 inputs:
   user:
